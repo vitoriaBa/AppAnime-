@@ -1,11 +1,5 @@
-# Sample Snack app
-
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![home](https://github.com/vitoriaBa/AppAnime-/assets/127052744/7e522a95-c20e-4268-9a87-2ce36589547e)
+![chwp1](https://github.com/vitoriaBa/AppAnime-/assets/127052744/991a4116-b95d-452b-953d-e92d225b6c4c)
+![chwp2](https://github.com/vitoriaBa/AppAnime-/assets/127052744/d26c58a4-dfe5-498f-a204-721430ef60b8)
+![jojop1](https://github.com/vitoriaBa/AppAnime-/assets/127052744/837d6bf9-1111-485e-ba2d-04c1ddfe921c)
+![jojop2](https://github.com/vitoriaBa/AppAnime-/assets/127052744/f4a1b3f3-72c9-48c5-83fd-fa22e98ab3a2)
